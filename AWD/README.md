@@ -10,15 +10,15 @@ Open-source Project for Alternate Wetting and Drying (AWD) rice management pract
 4. Testing
 
 ## The Initial Concept
- 
+ ![The Initial Concept](https://user-images.githubusercontent.com/95273257/196202245-da3aa493-c53e-4fc8-81a8-8ad31a99b625.jpg)
+
   
 ## What’s Done?
 1. Hardware
-- Design PCB for NODE.
- 
+- [x] Design PCB for NODE.
   
 ## What’s Next
-1. Send design file to PCB manufacturer for prototyping.
+- Send design file to PCB manufacturer for prototyping.
  
   
 ## Other Similar Project-Related
