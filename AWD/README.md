@@ -13,12 +13,13 @@ Open-source Project for Alternate Wetting and Drying (AWD) rice management pract
  ![The Initial Concept](https://user-images.githubusercontent.com/95273257/196202245-da3aa493-c53e-4fc8-81a8-8ad31a99b625.jpg)
  
 ## What’s Done?
-1. Hardware
+1. Hardware (https://github.com/00TLalu/TL-Node-Hardware)
 - [x] Design PCB for NODE.
+- [x] Assemble the PCB.
   
-## And What’s Next
-- Send design file to PCB manufacturer for prototyping.
- 
+## What’s Next
+- Test fit with case.
+- Write the code.
   
 ## Other Similar Project-Related
 - [World Bank - Internet of Things for Alternate Wetting Drying](https://www.youtube.com/watch?v=r0FpddlDLxQ)
